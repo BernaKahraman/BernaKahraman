@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berna Kahraman</h1>
-- 🌱 I’m currently learning **C# , ASP.NET , ASP.NET MVC , HTML , CSS , BOOTSTRAP , MSSQL , JAVA**
+- 🌱 I’m currently learning *C# , ASP.NET , ASP.NET MVC , HTML , CSS , BOOTSTRAP , MSSQL , JAVA*
 
 - 📫 Mail: **bernakahraman0921@gmail.com**
 
