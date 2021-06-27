@@ -15,3 +15,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BernaKahraman&show_icons=true&locale=en&layout=compact" alt="bernakahraman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BernaKahraman&show_icons=true&locale=en" alt="bernakahraman" /></p>
+
+**Profile Views**
+![Visitor Count](https://profile-counter.glitch.me/{BernaKahraman}/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BernaKahraman&label=Profile%20views&color=0e75b6&style=flat" alt="BernaKahraman" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BernaKahraman&theme=onedark" alt="BernaKahraman" /></a> </p>
+</div>
