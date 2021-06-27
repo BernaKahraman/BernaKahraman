@@ -16,7 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BernaKahraman&show_icons=true&locale=en" alt="bernakahraman" /></p>
 
-**Profile Views**
-![Visitor Count](https://profile-counter.glitch.me/{BernaKahraman}/count.svg)
 
-</div>
