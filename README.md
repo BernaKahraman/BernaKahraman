@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berna Kahraman</h1>
-<h3 align="center">Bartın Üniversitesi-Yönetim Bilişim Sistemleri</h3>
+<h3 align="center">Software Testing Specialist</h3>
 - 🌱 I’m currently learning C# , ASP.NET CORE , ASP.NET MVC , HTML , CSS , MSSQL , JAVA, DELPHİ
 
 - 📫 Mail: **bernakahraman0921@gmail.com**
