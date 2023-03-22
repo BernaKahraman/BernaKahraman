@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Berna Kahraman</h1>
 <h3 align="center">Software Testing Specialist</h3>
-- 🌱 I’m currently learning C# , ASP.NET CORE , ASP.NET MVC , HTML , CSS , MSSQL , JAVA, DELPHİ
 
-- 📫 Mail: **bernakahraman0921@gmail.com**
+<h4 align="left">Welcome to my Github Profile!🙋🏽‍♀️ </h4>
+
+- 🔭 I’m currently working at **Bimser Çözüm**
+
+- 📫 How to reach me **bernakahraman0921@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
